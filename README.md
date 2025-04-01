@@ -10,7 +10,11 @@ https://nodejs.org/
 W terminalu sklonuj repozytorium za pomocą komendy:
 **https://github.com/Mateusz9991/api-cli-fetcher.git**
 
- **Pobierz dane z domyślnego API i zapisz do pliku `output.json`:**
+ **W terminalu przejdź do folderu projektu:
+
+bash
+Kopiuj
+**
    ```bash
-   node index.js --output output.json
+   cd data-fetcher-cli
    ```
