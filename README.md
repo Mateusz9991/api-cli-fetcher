@@ -19,4 +19,9 @@ W terminalu sklonuj repozytorium za pomocą komendy:
 npm install
 ```
 # Konfiguracja #
-** Przykładowa konfiguracja (plik config.json) **
+**Przykładowa konfiguracja (plik config.json)**
+```bash
+{
+  "apiUrl": "https://api.example.com/data"
+}
+```
