@@ -8,5 +8,5 @@ https://nodejs.org/
 
 Skopiuj repozytorium na swój komputer
 W terminalu sklonuj repozytorium za pomocą komendy:
-**git clone https://github.com/TwojaNazwaUzytkownika/data-fetcher-cli.git**
+**https://github.com/Mateusz9991/api-cli-fetcher.git**
 
