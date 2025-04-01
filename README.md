@@ -18,3 +18,5 @@ W terminalu sklonuj repozytorium za pomocą komendy:
 ```bash
 npm install
 ```
+# Konfiguracja #
+** Przykładowa konfiguracja (plik config.json) **
