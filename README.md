@@ -10,7 +10,11 @@ https://nodejs.org/
 W terminalu sklonuj repozytorium za pomocą komendy:
 **https://github.com/Mateusz9991/api-cli-fetcher.git**
 
- **W terminalu przejdź do folderu projektu:**
+ 3 **W terminalu przejdź do folderu projektu:**
    ```bash
    cd data-fetcher-cli
    ```
+4 **W katalogu głównym projektu uruchom poniższą komendę, aby zainstalować wszystkie niezbędne pakiety:**
+```bash
+npm install
+```
