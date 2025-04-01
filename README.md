@@ -25,3 +25,9 @@ npm install
   "apiUrl": "https://api.example.com/data"
 }
 ```
+# Przykłady użycia:#
+**Pobierz dane z domyślnego API i zapisz do pliku output.json:**
+```bash
+node index.js --output output.json
+ 
+```
