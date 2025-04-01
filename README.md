@@ -13,7 +13,6 @@ W terminalu sklonuj repozytorium za pomocą komendy:
  **W terminalu przejdź do folderu projektu:
 
 bash
-Kopiuj
 **
    ```bash
    cd data-fetcher-cli
