@@ -11,8 +11,6 @@ W terminalu sklonuj repozytorium za pomocą komendy:
 **https://github.com/Mateusz9991/api-cli-fetcher.git**
 
  **W terminalu przejdź do folderu projektu:
-
-bash
 **
    ```bash
    cd data-fetcher-cli
